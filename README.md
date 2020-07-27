@@ -14,3 +14,5 @@ We need your help to develop a Machine Learning algorithm that, using this knowl
 
 Find more at https://www.kaggle.com/c/msk-redefining-cancer-treatment
 
+## Credits
+www.applied.com for helping and providing useful resources to complete this case study
